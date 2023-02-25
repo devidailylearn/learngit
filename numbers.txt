@@ -6,3 +6,4 @@
 6. six
 7. seven (added by develop b)
 8. eight from dailylearn
+jhondeer (developer b)
